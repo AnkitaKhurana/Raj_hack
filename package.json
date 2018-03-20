@@ -1,0 +1,22 @@
+{
+  "name": "rajhack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nj4710/Raj_hack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nj4710/Raj_hack/issues"
+  },
+  "homepage": "https://github.com/nj4710/Raj_hack#readme",
+  "dependencies": {
+    "watson-html5-speech-recognition": "^0.6.6"
+  }
+}
